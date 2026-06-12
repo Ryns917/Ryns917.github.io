@@ -81,7 +81,7 @@ The contact form uses **Formspree** for free form handling:
 5. Replace `YOUR_FORM_ID` in `index.html`:
 
 ```html
-<form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form class="contact-form" action="https://formspree.io/forms/xdavwdvv/integration" method="POST">
 ```
 
 After setup, form submissions will be sent to your email.
